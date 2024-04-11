@@ -1,0 +1,23 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "vuepress搭建个人博客测试",
+  "main": "index",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "l",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.10",
+    "vuepress-theme-reco": "^1.6.17"
+  }
+}
